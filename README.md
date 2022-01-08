@@ -1,4 +1,4 @@
-# wabot-aq
+# JackBot V2
 
 Simple WhatsApp Bot
 
