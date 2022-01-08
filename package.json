@@ -1,7 +1,7 @@
 {
-  "name": "bbbabot-aq",
+  "name": "jackbot-aq",
   "version": "2.1.2",
-  "description": "Customizable WhatsApp Bot",
+  "description": "Advanced whatsapp Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
