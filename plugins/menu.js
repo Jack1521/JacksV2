@@ -25,7 +25,7 @@ let tags = {
 const defaultMenu = {
 	
   before: `
-╔════「 *👒𝐁 𝐁 𝐁 𝐀 𝐁☠𝐓©* 」
+╔════「 *👒 𝐉 𝐀 𝐂 𝐊 𝐁☠𝐓©* 」
 ║  Yohoho❗, %name!
 ║
 ║ *Total cmds:* 121
@@ -36,11 +36,11 @@ const defaultMenu = {
 ║ *Time:* %time
 ║
 ║ *Database:* %rtotalreg of %totalreg
-║ *Discord:* https://bit.ly/3u1OHuG
+║ *Github:* https://github.com/Jack1521
 ╚═════
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
-  body: '🪀 %cmd',
+  body: '🦄 %cmd',
   footer: '╰────\n',
   after: `
 *%npmname@^%version*
